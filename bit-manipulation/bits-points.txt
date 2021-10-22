@@ -1,0 +1,52 @@
+------------------- Bit Manipulation Points ---------------------
+
+1. Bit at position i in num =  num & ( 1 << i ) // assumed 0 based indexing
+
+2. 2^i  = (1 << i)
+
+3.  multiply num by 2 = num << 1   OR multiply by 2^i = num << (1 << i)
+
+4. Divide num by 2 = num >> 1      OR divide by 2^i = num >> (1 << i)
+
+5. Total no. of bits in a num = 1 + log2(num)
+
+6. To divide number by divisor which is power of 2 
+	            quotient| remainder
+	    7/2   =   1 1 | 1
+	               --------
+	                     1 | 0
+	                     
+7. Square of a num	                     
+	  square(n) = 0 if n == 0
+	  if n is even 
+	     square(n) = 4*square(n/2) 
+	  if n is odd
+	     square(n) = 4*square(floor(n/2)) + 4*floor(n/2) + 1 
+
+	Examples
+	  square(6) = 4*square(3)
+	  square(3) = 4*(square(1)) + 4*1 + 1 = 9
+	  square(7) = 4*square(3) + 4*3 + 1 = 4*9 + 4*3 + 1 = 49
+
+	How does this work? 
+
+	If n is even, it can be written as
+	  n = 2*x 
+	  n2 = (2*x)2 = 4*x2
+	If n is odd, it can be written as 
+	  n = 2*x + 1
+	  n2 = (2*x + 1)2 = 4*x2 + 4*x + 1
+	  
+8. 2's complement of num =  ~(num-1)
+	  
+9. To get right most setbit position
+	rightMostSetbitPosn = log2(num & ~(num - 1))+1      OR   =  log2(num & -num)+1      OR  = log2(num & 2's comp(num))+1
+	
+	explaination:  num - 1  = has trailing zeros as 1 + rightMostSetbit = 0 + rest bit (left of rightMostSetbit) are same
+	                   ~(num-1) = has trailing zeros as 0 + rightMostSetbit = 1 + rest bit  (left of rightMostSetBit) are opposite.
+	                   
+	                   Now num & ~(num-1)  will give the number with position of rightMostSetbit same as that of orignal number. 
+	                   And it will not contain any bits left to rightMostSetbit as in original number.
+	                   Now  num & ~(num-1)  is nothing but a number which is power of 2. And our ans i.e, rightMostSetbit position = no. of bits in that number
+	                                                                                                                                                                                               = log2(that number) + 1 
+	

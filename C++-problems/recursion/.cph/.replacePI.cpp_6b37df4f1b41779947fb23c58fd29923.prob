@@ -1,0 +1,1 @@
+{"name":"Local: replacePI","url":"/home/tushar/Desktop/C++-problems/recursion/replacePI.cpp","tests":[{"id":1620390321065,"input":"","output":""},{"id":1620390711932,"input":"pippppiiiipi","output":"3.14ppp3.14iii3.14"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/tushar/Desktop/C++-problems/recursion/replacePI.cpp","group":"local","local":true}

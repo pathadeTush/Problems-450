@@ -1,0 +1,1 @@
+{"name":"Local: permutation","url":"/home/tushar/Desktop/C++-problems/recursion/permutation.cpp","tests":[{"id":1620479748970,"input":"","output":"ABC\nACB\nBAC\nBCA\nCAB\nCBA"},{"id":1620480792715,"input":"","output":"A"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/tushar/Desktop/C++-problems/recursion/permutation.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 308-insertAtBottom","url":"/home/tushar/Desktop/Problems-450/stack-queues/308-insertAtBottom.cpp","tests":[{"id":1625648482263,"input":"5\n1 2 3 4 5\n0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/tushar/Desktop/Problems-450/stack-queues/308-insertAtBottom.cpp","group":"local","local":true}

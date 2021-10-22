@@ -1,0 +1,1 @@
+{"name":"Local: 7-max-min-element","url":"/home/tushar/Desktop/Problems-450/Array/7-max-min-element.cpp","tests":[{"id":1623300849697,"input":"5\n1 2 3 4 5 ","output":"max: 5  min: 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/tushar/Desktop/Problems-450/Array/7-max-min-element.cpp","group":"local","local":true}

@@ -1,0 +1,7 @@
+Those Who are getting segmentation fault in C/C++
+
+We can only use maximum of 10^5 continuous memory at a time(local) but here size of the N is 10^6 which exceed the limit ...that's why we are getting segmentation fault ...so simple solution is use vector in place of array .
+
+------ Min / Max Heap -----
+priority_queue <int> pq; // by default max heap
+to implement it as a min heap push negative of element every time of push operation

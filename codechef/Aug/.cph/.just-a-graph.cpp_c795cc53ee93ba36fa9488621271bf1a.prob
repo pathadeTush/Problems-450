@@ -1,0 +1,1 @@
+{"name":"Local: just-a-graph","url":"/home/tushar/Desktop/Problems-450/codechef/Aug/just-a-graph.cpp","tests":[{"id":1630163121016,"input":"2\n2\n1 2\n2\n2 1","output":"2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/tushar/Desktop/Problems-450/codechef/Aug/just-a-graph.cpp","group":"local","local":true}

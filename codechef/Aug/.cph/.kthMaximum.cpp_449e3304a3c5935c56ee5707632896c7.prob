@@ -1,0 +1,1 @@
+{"name":"Local: kthMaximum","url":"/home/tushar/Desktop/Problems-450/codechef/Aug/kthMaximum.cpp","tests":[{"id":1630164502025,"input":"2\n5 3\n1 2 3 4 5\n5 3\n4 3 3 3 4","output":"1\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/tushar/Desktop/Problems-450/codechef/Aug/kthMaximum.cpp","group":"local","local":true}

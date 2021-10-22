@@ -1,0 +1,1 @@
+{"name":"Local: policemenTheif","url":"/home/tushar/Desktop/C++-problems/policemenTheif.cpp","tests":[{"id":1623927983427,"input":"5\n1\n1 0 0 1 0","output":"2"},{"id":1623928186833,"input":"6\n2\n0 0 1 1 0 1","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/tushar/Desktop/C++-problems/policemenTheif.cpp","group":"local","local":true}

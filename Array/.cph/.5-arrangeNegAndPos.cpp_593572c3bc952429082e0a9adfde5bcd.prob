@@ -1,0 +1,1 @@
+{"name":"Local: 5-arrangeNegAndPos","url":"/home/tushar/Desktop/Problems-450/Array/5-arrangeNegAndPos.cpp","tests":[{"id":1623299055725,"input":"5\n6 -9 8 1 -2","output":"-2 -9 8 1 6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/tushar/Desktop/Problems-450/Array/5-arrangeNegAndPos.cpp","group":"local","local":true}

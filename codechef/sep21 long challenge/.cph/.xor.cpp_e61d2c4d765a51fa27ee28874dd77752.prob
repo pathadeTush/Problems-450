@@ -1,0 +1,1 @@
+{"name":"Local: xor","url":"/home/tushar/Desktop/Problems-450/codechef/sep21 long challenge/xor.cpp","tests":[{"id":1631006575162,"input":"3\n3 2\n1 2 3\n5 100\n1 2 3 4 5\n4 1\n2 2 6 6","output":"2 1\n1 0\n2 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/tushar/Desktop/Problems-450/codechef/sep21 long challenge/xor.cpp","group":"local","local":true}

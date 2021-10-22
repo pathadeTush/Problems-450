@@ -1,0 +1,1 @@
+{"name":"Local: 353-minSumOf2Num","url":"/home/tushar/Desktop/Problems-450/heap/353-minSumOf2Num.cpp","tests":[{"id":1626516767686,"input":"1\n3\n5 8 6","output":"64"},{"id":1626518047796,"input":"1\n2\n5 9","output":"14"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/tushar/Desktop/Problems-450/heap/353-minSumOf2Num.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 140-reverseInGroupOfSizeK","url":"/home/tushar/Desktop/Problems-450/linked-list/140-reverseInGroupOfSizeK.cpp","tests":[{"id":1625224765869,"input":"1\n5\n1 2 3 4 5\n2","output":"2 1 4 3 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/tushar/Desktop/Problems-450/linked-list/140-reverseInGroupOfSizeK.cpp","group":"local","local":true}

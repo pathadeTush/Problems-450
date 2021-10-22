@@ -1,0 +1,1 @@
+{"name":"Local: subsetsOfSet","url":"/home/tushar/Desktop/C++-problems/bit-manipulation/subsetsOfSet.cpp","tests":[{"id":1619944503269,"input":"","output":"a \nb \na b \nc \na c \nb c \na b c"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/tushar/Desktop/C++-problems/bit-manipulation/subsetsOfSet.cpp","group":"local","local":true}

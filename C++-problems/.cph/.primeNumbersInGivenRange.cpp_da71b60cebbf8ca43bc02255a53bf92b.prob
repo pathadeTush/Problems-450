@@ -1,0 +1,1 @@
+{"name":"Local: primeNumbersInGivenRange","url":"/home/tushar/Desktop/C++-problems/primeNumbersInGivenRange.cpp","tests":[{"id":1620223543103,"input":"2 50","output":"2 3 5 7 11 13 17 19 23 29 31 37 41 43 47"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/tushar/Desktop/C++-problems/primeNumbersInGivenRange.cpp","group":"local","local":true}

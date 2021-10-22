@@ -1,0 +1,1 @@
+{"name":"Local: countSort","url":"/home/tushar/Desktop/C++-problems/sorting/countSort.cpp","tests":[{"id":1623922944133,"input":"9\n1 3 2 3 4 1 6 4 3","output":"1 1 2 3 3 3 4 4 6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/tushar/Desktop/C++-problems/sorting/countSort.cpp","group":"local","local":true}
